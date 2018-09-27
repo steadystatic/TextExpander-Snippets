@@ -1,6 +1,6 @@
-# TextExpander Snippets
+# ~~TextExpander~~ Alfred 3 Snippets
 
-Collection of my TextExpander snippets used for daily coding and what-not.
+Collection of my Alfred 3 (formerly TextExpander) snippets used for daily coding and what-not.
 
 ## Snippet Groups
 
